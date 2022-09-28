@@ -1,0 +1,27 @@
+<style>
+* {
+  text-align: center;
+  color: blue;
+}
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+		td {
+			width: 100em;
+			height: 5ex;
+			background-color: grey;
+			border: 2px solid firebrick;
+			border-radius: 0px;
+			font-weight: bold;
+			color: black;
+			cursor: pointer;
+		}
+        td:hover {
+			background-color: #5F9EA0;
+		}
+		
+</style>
